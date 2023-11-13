@@ -12,6 +12,9 @@
 
     <ItemGroup>
       <PackageReference Include="MinHook.NET" Version="1.1.1" />
+      <PackageReference Include="SharpDX" Version="4.2.0" />
+      <PackageReference Include="SharpDX.Direct3D11" Version="4.2.0" />
+      <PackageReference Include="SharpDX.DXGI" Version="4.2.0" />
     </ItemGroup>
 
 </Project>
